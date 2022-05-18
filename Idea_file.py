@@ -1,1 +1,1 @@
-print('I have a new Idea_file!!!')
+print('I have a new Idea_file_zizi!!!')
